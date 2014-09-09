@@ -1,5 +1,6 @@
-﻿open System
-open AlgorithmW.Syntax
+﻿module AlgorithmW.Program
+open System
+open AlgorithmW.Inference
 
 let e0 = ELet ("id", EAbs ("x", EVar "x"), EVar "id")
 let e1 = ELet ("id", EAbs ("x", EVar "x"), EApp (EVar "id", EVar "id"))

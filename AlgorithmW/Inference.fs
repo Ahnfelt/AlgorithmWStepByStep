@@ -1,4 +1,4 @@
-﻿module AlgorithmW.Syntax
+﻿module AlgorithmW.Inference
 
 type Lit =
     | LInt of int
