@@ -14,7 +14,7 @@ The problem in a nutshell
 -------------------------
 
 - What is the type of the empty list `[]`?
-  - It's a list with **some type of elements**.
+  - It's a list with **some type of elements** (not in the sense of existential types).
 
 - What is the type of the function that appends two lists?
   - It takes a list with **some type of elements** and 
