@@ -32,6 +32,7 @@ The solution
 - To represent **"that same type"**, we use *equality constraints* between types.
 - To represent **"any type"**, we use *type schemes*.
 
+Note that "some type" doesn't mean *existential type* in this document.
 
 The code
 --------
