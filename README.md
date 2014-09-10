@@ -13,8 +13,8 @@ Please see http://www.grabmueller.de/martin/www/pub/AlgorithmW.pdf for documenta
 The problem in a nutshell
 -------------------------
 
-- What is the type of the empty list `[]`?
-  - It's a list with **some type of elements** (not in the sense of existential types).
+- When can we use the empty list `[]`?
+  - When we expect a list with **some type of elements**.
 
 - What is the type of the function that appends two lists?
   - It takes a list with **some type of elements** and 
