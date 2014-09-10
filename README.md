@@ -1,6 +1,8 @@
 AlgorithmWStepByStep
 ====================
 
+**The type inference is in a single file [Inference.fs](/AlgorithmW/Inference.fs)** (less than 150 lines of code)
+
 Type inference for ML-like languages. A port to F# of "Algorithm W Step by Step" by Martin Grabmüller. If there are bugs, they're probably mine.
 
 I've kept the variable names from the article, to make it easier to follow this code while reading the article.
